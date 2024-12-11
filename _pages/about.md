@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by Prof. Jun Chen and [Prof. Zheng Wang](https://wangzwhu.github.io/home/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from Wuhan University of Technology, under the supervision of Prof. Xian Zhong.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes privacy preservation and computer vision. I have published more than 10 papers at the international AI/CV conferences and journals <a href='https://scholar.google.com/citations?user=7OMHz2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 Recent News
@@ -54,8 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.06* Outstanding Graduate Student of Wuhan University of Technology.
 
 # 📖 Educations
-- *2022.09 - 2024.12 (now)*, Wuhan University, Wuhan.
-- *2019.06 - 2022.06, Master, Wuhan University of Technology, Wuhan.
+- *2022.09 - 2024.12 (now)*, PhD student, Wuhan University, Wuhan.
+- *2019.06 - 2022.06*, Master, Wuhan University of Technology, Wuhan.
 - *2015.09 - 2019.06*, Bachelor, Wuhan University of Technology, Wuhan.
 
 <!-- # 💬 Invited Talks
@@ -63,5 +63,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.01 - 2024.12*, visiting student.
-2023.11 - 2024.11, Visiting Ph.D., Centre for Frontier AI Research (CFAR) & Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore.
+- *2024.01 - 2024.12*, visiting student supervised by Dr. Zhu Hongyuan, Centre for Frontier AI Research (CFAR) & Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore.
