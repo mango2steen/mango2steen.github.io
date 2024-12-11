@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xuemei Jia"
 description              : "Ph.D. candidate, WHU"
-repository               : "mango2steen/xuemeijia.github.io"
+repository               : "mango2steen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuemei Jia 贾雪梅"
+  name             : "Xuemei Jia\\贾雪梅"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "I Need Freedom and Peace"
   location         : "Wuhan, China"
