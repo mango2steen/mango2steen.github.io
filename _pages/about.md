@@ -17,14 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by Prof. Jun Chen and [Prof. Zheng Wang](https://wangzwhu.github.io/home/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from Wuhan University of Technology, under the supervision of Prof. Xian Zhong.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 Recent News
+- *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025.
+- *2024.08*: &nbsp;🎉🎉 One co-author paper was accepted by Pattern Recognition.
+- *2024.07*: &nbsp;🎉🎉 One co-author paper was accepted by TPAMI.
+- *2023.11*: &nbsp;🎉🎉 One co-author paper was accepted by Pattern Recognition.
+- *2022.12*: &nbsp;🎉🎉 One co-author paper was accepted by AAAI 2023.
+- *2022.09*: &nbsp;🎉🎉 One co-author paper was accepted by TOMM.
+- *2022.06*: &nbsp;🎉🎉 One paper was accepted by TIP.
+- *2021.11*: &nbsp;🎉🎉 One paper was accepted by MMM 2022.
+- *2021.04*: &nbsp;🎉🎉 One co-author paper was accepted by TCSVT.
 
 # 📝 Publications 
 
@@ -40,19 +47,21 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* “挑战杯”竞赛黑科技专项赛道“恒星级”奖项（全国一等奖）, 隐身衣——对抗智能摄像机的全天候隐身装备
+- *2022.06* Outstanding Graduate Student of Wuhan University of Technology.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2024.12 (now)*, Wuhan University, Wuhan.
+- *2019.06 - 2022.06, Master, Wuhan University of Technology, Wuhan.
+- *2015.09 - 2019.06*, Bachelor, Wuhan University of Technology, Wuhan.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.01 - 2024.12*, visiting student.
+2023.11 - 2024.11, Visiting Ph.D., Centre for Frontier AI Research (CFAR) & Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore.
