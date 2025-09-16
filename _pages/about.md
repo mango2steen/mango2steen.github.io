@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by Prof. Jun Chen and [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I obtained my master's degree from Wuhan University of Technology, under the supervision of Prof. Xian Zhong.
+I am currently a 4nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by Prof. Jun Chen and [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I obtained my master's degree from Wuhan University of Technology, under the supervision of Prof. Xian Zhong.
 
 My research interest includes privacy preservation and computer vision. I have published more than 10 papers at the international AI/CV conferences and journals.
 
 
 # 🔥 Recent News
+- *2025.08*: &nbsp;🎉🎉 One co-author paper was accepted by TITS.
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025.
 - *2024.08*: &nbsp;🎉🎉 One co-author paper was accepted by Pattern Recognition.
 - *2024.07*: &nbsp;🎉🎉 One co-author paper was accepted by TPAMI.
@@ -56,6 +57,9 @@ My research interest includes privacy preservation and computer vision. I have p
 
 </div>
 </div>
+
+- ``TITS 2025`` [Motion-Consistent Representation Learning for UAV-Based Action Recognition](https://ieeexplore.ieee.org/document/11122427)
+Wenxuan Liu, Xian Zhong, Yihan Dai, **Xuemei Jia**, Zheng Wang, Shin'ichi Satoh
 
 - ``PR 2024`` [Dynamic and static mutual fitting for action recognition](https://www.sciencedirect.com/science/article/pii/S003132032400699X)
 Wenxuan Liu, **Xuemei Jia**, Xian Zhong, Kui Jiang, Xiaohan Yu, Mang Ye
