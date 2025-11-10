@@ -23,6 +23,7 @@ My research interest includes privacy preservation and computer vision. I have p
 
 
 # 🔥 Recent News
+- *2025.11*: &nbsp;🎉🎉 One co-author paper was accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 One co-author paper was accepted by TITS.
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2025.
 - *2024.08*: &nbsp;🎉🎉 One co-author paper was accepted by Pattern Recognition.
